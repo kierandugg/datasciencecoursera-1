@@ -1,2 +1,2 @@
 # datasciencecoursera
-JHU Data Science Specilization
+JHU Data Science Specialization
